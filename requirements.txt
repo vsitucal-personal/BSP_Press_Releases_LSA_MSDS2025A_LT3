@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+matplotlib
+scikit-learn
+scikit-learn-extra
+geopandas
+plotly
+nltk
+jupyterlab_execute_time
